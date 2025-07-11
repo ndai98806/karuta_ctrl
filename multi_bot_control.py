@@ -17,11 +17,11 @@ main_token_2 = os.getenv("MAIN_TOKEN_2")
 main_token_3 = os.getenv("MAIN_TOKEN_3")
 tokens = os.getenv("TOKENS").split(",") if os.getenv("TOKENS") else []
 
-main_channel_id = "1308280790395781131"
-other_channel_id = "1391240549746344026"
-ktb_channel_id = "1391240449276252170"
-spam_channel_id = "1393071579004534794"
-work_channel_id = "1389250541590413363"
+main_channel_id = "1393078921884467261"
+other_channel_id = "1393079764662882427"
+ktb_channel_id = "1393079764662882427"
+spam_channel_id = "1393079693439275019"
+work_channel_id = "1393079764662882427"
 karuta_id = "646937666251915264"
 karibbit_id = "1274445226064220273"
 
