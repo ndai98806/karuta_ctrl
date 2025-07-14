@@ -28,8 +28,8 @@ karibbit_id = "1274445226064220273"
 
 # --- BIẾN TRẠNG THÁI ---
 bots, acc_names = [], [
-    "Blacklist", "Khanh bang", "Dersale", "Venus", "WhyK", "Tan",
-    "Ylang", "Nina", "Nathan", "Ofer", "White", "the Wicker", "Leader", "Tess", "Wyatt", "Daisy", "CantStop", "Token",
+    "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Cheese",
+    "Buterfly", "", "Ant", "Bee", "White", "the Wicker", "Leader", "Tess", "Wyatt", "Daisy", "CantStop", "Token",
 ]
 main_bot, main_bot_2, main_bot_3 = None, None, None
 auto_grab_enabled, auto_grab_enabled_2, auto_grab_enabled_3 = False, False, False
