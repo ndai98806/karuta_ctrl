@@ -28,7 +28,7 @@ karibbit_id = "1274445226064220273"
 
 # --- BIẾN TRẠNG THÁI ---
 bots, acc_names = [], [
-    "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Cheese",
+    "Snoil", "Leaf", "Cheese", "Buterfly", "Ant", "Bee",
     "Buterfly", "Ant", "Bee", "Bee", "White", "the Wicker", "Leader", "Tess", "Wyatt", "Daisy", "CantStop", "Token",
 ]
 main_bot, main_bot_2, main_bot_3 = None, None, None
