@@ -17,7 +17,7 @@ main_token_2 = os.getenv("MAIN_TOKEN_2")
 main_token_3 = os.getenv("MAIN_TOKEN_3")
 tokens = os.getenv("TOKENS").split(",") if os.getenv("TOKENS") else []
 main_channel_id = "1393079764662882427"
-other_channel_id = "1393079764662882427"
+other_channel_id = "1393826415287472200"
 ktb_channel_id = "1393125479653052456"
 spam_channel_id = "1393079693439275019"
 work_channel_id = "1393079764662882427"
@@ -28,8 +28,8 @@ karibbit_id = "1274445226064220273"
 
 # --- BIẾN TRẠNG THÁI ---
 bots, acc_names = [], [
-    "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Cheese",
-    "Butterfly", "Ant", "Bee", "004", "White", "the Wicker", "Leader", "Tess", "Wyatt", "Daisy", "CantStop", "Token",
+    "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Frog",
+    "Butterfly", "Ant", "Bee", "Leopard", "Antelope", "Elephant", "Hyena", "Giraffe", "Lion", "Daisy", "CantStop", "Token",
 ]
 main_bot, main_bot_2, main_bot_3 = None, None, None
 auto_grab_enabled, auto_grab_enabled_2, auto_grab_enabled_3 = False, False, False
