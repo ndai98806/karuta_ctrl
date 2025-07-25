@@ -15,7 +15,6 @@ load_dotenv()
 main_token = os.getenv("MAIN_TOKEN")
 main_token_2 = os.getenv("MAIN_TOKEN_2")
 main_token_3 = os.getenv("MAIN_TOKEN_3")
-main_token_4 = os.getenv("MAIN_TOKEN_4")
 tokens = os.getenv("TOKENS").split(",") if os.getenv("TOKENS") else []
 main_channel_id = "1393079764662882427"
 other_channel_id = "1393826415287472200"
