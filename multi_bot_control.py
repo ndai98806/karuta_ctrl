@@ -30,7 +30,7 @@ karibbit_id = "1274445226064220273"
 bots, acc_names = [], [
     "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Frog",
     "Butterfly", "Ant", "Bee", "Leopard", "Antelope", "Elephant", "Hyena", "Giraffe", "Lion", "Swordfish" , "Clown fish" , "Whale" , "Shark", "Lobster", "Octopus",
-     "Mosasaurus","white" , "Eagle bird",,
+     "Mosasaurus","white" , "Eagle bird",".",
 ]
 main_bot, main_bot_2, main_bot_3 = None, None, None
 auto_grab_enabled, auto_grab_enabled_2, auto_grab_enabled_3 = False, False, False
